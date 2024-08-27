@@ -1,0 +1,2 @@
+composer create-project --prefer-dist laravel/lumen CartService
+php -S localhost:60000 -t public
